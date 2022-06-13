@@ -1,0 +1,44 @@
+footer{
+
+    padding: 40px 0;
+    background-color: #eee;
+  }
+  footer .wrap{
+    overflow: hidden;
+  }
+  footer ul.fnb{
+  
+    float: left;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+  footer ul.fnb li{
+  
+  }
+  footer ul.fnb li a{
+  
+  }
+  footer address{
+    float: left;
+    line-height: 1.4;
+  }
+  footer select{
+  
+    float: right;
+    border: none;
+    width: 200px;
+    border-top: 1px solid #ccc;
+    padding-top: 9px;
+    background-color: transparent;
+  }
+  footer select option{
+  
+  }
+  footer p.copyright{
+    
+    clear: both;
+    border-top: 1px solid #666;
+    padding-top: 20px;
+    color: #666;
+  }
